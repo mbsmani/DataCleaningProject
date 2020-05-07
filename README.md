@@ -1,5 +1,5 @@
 # DataCleaningProject
-Solution to Data Science course in coursera 
+Solution to Data Science course in coursera. The code assumes you have downloaded the dataset and have it in your present working directory.
 
 
 The code actually takes the training and testing datasets into two variables, "train" and "test" respectively and then does the following:
